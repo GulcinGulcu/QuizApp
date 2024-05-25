@@ -1,0 +1,34 @@
+.home-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+h1 {
+    letter-spacing: 8px;
+    font-size: 3.8rem;
+}
+
+p {
+    font-weight: bold;
+}
+
+button {
+    background-color: #4D5B9E;
+    color: #fff;
+    border: none;
+    border-radius: 14px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.start-btn {
+    padding: 15px 30px;
+    font-size: 1.3rem;
+}
+
+button:hover {
+    background-color: #374170;
+}

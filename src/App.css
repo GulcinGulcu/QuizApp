@@ -1,0 +1,11 @@
+.App {
+  min-height: 100%;
+  font-family: 'Raleway', sans-serif;
+  color: #293264;
+  background-color: #e5e5f7;
+  background-image: linear-gradient(135deg, #ecedfe 25%, transparent 25%), linear-gradient(225deg, #ecedfe 25%, transparent 25%), linear-gradient(45deg, #ecedfe 25%, transparent 25%), linear-gradient(315deg, #ecedfe 25%, #e5e5f7 25%);
+  background-position: 10px 0, 10px 0, 0 0, 0 0;
+  background-size: 20px 20px;
+  background-repeat: repeat;
+  transition: all 0.5s ease-in-out;
+}
